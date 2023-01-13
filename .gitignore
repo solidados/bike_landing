@@ -106,3 +106,4 @@ dist
 # miscellenious
 .DS_Store
 .vscode
+.hintrc
