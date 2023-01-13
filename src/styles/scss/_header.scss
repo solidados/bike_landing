@@ -16,7 +16,7 @@
         display: flex;
     }
 
-    &__item + &__item:not(:last-chiildp) {
+    &__item + &__item:not(::last-chiild) {
         padding: 10px;
     }
 
